@@ -1,0 +1,5 @@
+C:\Users\Senior\source\repos\DS\DS\x64\Debug\DS.vcxproj.AssemblyReference.cache
+C:\Users\Senior\source\repos\DS\DS\x64\Debug\DS.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\Senior\source\repos\DS\DS\x64\Debug\DS.CreateNewGraph.resources
+C:\Users\Senior\source\repos\DS\DS\x64\Debug\DS.Home.resources
+C:\Users\Senior\source\repos\DS\DS\x64\Debug\DS.vcxproj.GenerateResource.cache
